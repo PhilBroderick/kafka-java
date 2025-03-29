@@ -4,3 +4,6 @@
 # Gradle files
 .gradle
 build/
+
+# Confluent Cloud configuration files
+src/main/resources/client.properties
