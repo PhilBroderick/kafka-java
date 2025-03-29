@@ -1,1 +1,6 @@
+# IDE specific folders
 .idea
+
+# Gradle files
+.gradle
+build/
