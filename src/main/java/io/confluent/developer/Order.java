@@ -24,5 +24,8 @@ public class Order {
         this.orderTime = LocalDateTime.now();
         this.items = items;
     }
+
+    // Required for deserialization
+    public Order() {}
 }
 
